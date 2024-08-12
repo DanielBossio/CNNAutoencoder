@@ -1,6 +1,7 @@
 # CNNAutoencoder
 Tutorial CNN+Autoencoder para extracción de características<br>
 <a href='https://www.youtube.com/watch?v=C041VXuHafI'>Enlace al tutorial original</a><br>
+<a href='https://www.kaggle.com/datasets/shayanfazeli/heartbeat'>Enlace al dataset</a><br>
 Entrenamiento de un modelo para detección de anomalías en latidos de corazón utilizando:
 - Isolation Forest
 - Autoencoder
